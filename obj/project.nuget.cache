@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YQdET/79IeM/ORH44NXkO+WB1Of9ZKTBVAxH3oGYTrhEYJfu6vtphYFZ8MJM9HE0GY493gBGlm8gUxEf0UAeAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tamag\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tamag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
